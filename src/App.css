@@ -1,3 +1,16 @@
+.beutify {
+  background-color: purple;
+  color: white;
+  height: 100px;
+  margin: 8px;
+  padding: 8px;
+  border-radius: 8px;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
 .App {
   text-align: center;
 }
